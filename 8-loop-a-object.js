@@ -15,6 +15,7 @@ for(const prop in mobile){
 
 
 // 2nd approach
+// this way it stores all the keys into an array. and we can loop through it.
 const allKey = Object.keys(mobile);
 console.log(allKey);
 for(const key of allKey){
