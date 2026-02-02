@@ -4,7 +4,7 @@ const part = address.slice(2, 5);
 console.log(part);
 // substring, substr. if needed search google
 
-// split()
+// split() -> split through given circumstances
 const sentence = "I am a good person who works lazy";
 // console.log(sentence.split(' '));
 
